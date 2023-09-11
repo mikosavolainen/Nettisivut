@@ -1,0 +1,38 @@
+body{
+    color: rgb(255, 255, 255);
+    background-color: rgb(78, 75, 238);
+}
+
+.logi_input{
+text-align: center;
+color: aliceblue;
+padding: auto;
+}
+
+.logi_submit{
+    text-align: right;
+}
+
+.logi_otsikko{
+    text-align: center;
+    color: aliceblue;
+    height: 10rem;
+}
+
+footer {
+    position: relative;
+    text-align: center;
+    bottom: auto;
+    padding: 3px;
+    color: white;
+}
+
+header {
+    color: rgba(255, 255, 255, 0);
+    background-color: rgb(57, 163, 255);
+    text-align: left;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: large;
+    
+}

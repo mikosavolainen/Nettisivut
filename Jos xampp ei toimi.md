@@ -1,0 +1,1 @@
+$cfg['RowActionLinksWithoutUnique'] = 'true';
