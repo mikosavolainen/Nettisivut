@@ -10,7 +10,9 @@ padding: auto;
 }
 
 .logi_submit{
-    text-align: right;
+    text-align: center;
+    padding-top: 30px;
+    
 }
 
 .logi_otsikko{
