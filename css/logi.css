@@ -6,13 +6,11 @@ body{
 .logi_input{
 text-align: center;
 color: aliceblue;
-padding: auto;
 }
 
 .logi_submit{
     text-align: center;
     padding-top: 30px;
-    
 }
 
 .logi_otsikko{
@@ -34,7 +32,6 @@ header {
     background-color: rgb(57, 163, 254);
     text-align: left;
     padding: 5px;
-
     border-radius: 5px;
     font-size: large;
     

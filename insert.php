@@ -25,7 +25,7 @@
             header('Location: ../nettisivu/logi.php');
             exit;
         } else{
-            echo "ERROR: VIRHE!!!!!!!!!! $sql. "
+            echo "ERROR: 100-500 $sql. "
                 . mysqli_error($conn);
         }
          
